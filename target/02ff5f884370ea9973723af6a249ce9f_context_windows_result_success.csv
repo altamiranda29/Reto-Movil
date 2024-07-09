@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Inicio de Sesión","Agregar productos al carrito","SUCCESS","2024-07-05T15:58:05.2895265-05:00[America/Bogota]","0.0","16.91"
+"Inicio de Sesión","Iniciar sesión con credenciales válidas","SUCCESS","2024-07-09T11:55:00.9441592-05:00[America/Bogota]","0.0","18.53"
+"Inicio de Sesión","Iniciar sesión con credenciales inválidas","SUCCESS","2024-07-09T11:55:19.6278906-05:00[America/Bogota]","0.0","11.39"
+"Inicio de Sesión","Agregar productos al carrito y ver los productos en el carrito","SUCCESS","2024-07-09T11:55:31.2858287-05:00[America/Bogota]","0.0","26.17"
+"Inicio de Sesión","Simular compra de productos","SUCCESS","2024-07-09T11:55:57.7465665-05:00[America/Bogota]","0.0","35.6"
+"As a user, I want to log in to OpenCart to check different functionalities","i place the order","SUCCESS","2024-03-22T16:15:24.5602961-05:00[America/Bogota]","0.0","0.43"
+"As a user, I want to log in to OpenCart to check different functionalities","Test the correct new account registration","SUCCESS","2024-04-05T10:39:31.0536506-05:00[America/Bogota]","0.0","55.17"

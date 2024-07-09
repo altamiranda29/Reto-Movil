@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Inicio de Sesión","Iniciar sesión con credenciales válidas","PENDING","2024-07-04T13:24:08.0813818-05:00[America/Bogota]","0.0","0.57"
+"Inicio de Sesión","Iniciar sesión con credenciales inválidas","PENDING","2024-07-04T13:24:08.777386-05:00[America/Bogota]","0.0","0.57"
+"Inicio de Sesión","Iniciar sesión con credenciales válidas","SUCCESS","2024-07-09T11:55:00.9441592-05:00[America/Bogota]","0.0","18.53"
+"As a user, I want to log in to OpenCart to check different functionalities","Test the correct new account registration","PENDING","2024-03-22T15:21:13.962661-05:00[America/Bogota]","0.0","0.69"
+"As a user, I want to log in to OpenCart to check different functionalities","Test the correct new account registration","SUCCESS","2024-04-05T10:39:31.0536506-05:00[America/Bogota]","0.0","55.17"
